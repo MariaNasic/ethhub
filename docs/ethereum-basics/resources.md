@@ -130,6 +130,7 @@ description: A list of essential Ethereum resources.
 * [EnjinX](https://enjinx.io/)
 * [Bloxy](http://bloxy.info/)
 * [Bitquery](https://explorer.bitquery.io/ethereum/)
+* [GetBlock Explorer](https://getblock.io/explorers/)
 
 #### Eth2 Block Explorers
 
@@ -176,6 +177,7 @@ description: A list of essential Ethereum resources.
 * [AVADO](https://ava.do/)
 * [DAppNode](https://dappnode.io/)
 * [QuikNode](https://quiknode.io/)
+* [GetBlock](https://getblock.io)
 * [Blockdaemon](https://blockdaemon.com/)
 * [Vipnode](https://vipnode.org/)
 
